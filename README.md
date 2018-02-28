@@ -1,5 +1,10 @@
 # Udemy Free Courses
 
+[![Build Status](https://travis-ci.org/hudsonbrendon/udemy-free-courses.svg?branch=master)](https://travis-ci.org/hudsonbrendon/udemy-free-courses)
+[![Github Issues](http://img.shields.io/github/issues/hudsonbrendon/udemy-free-courses.svg?style=flat)](https://github.com/hudsonbrendon/udemy-free-courses/issues?sort=updated&state=open)
+[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Logo](logo.png)
 
 Want to be up to date with Udemy free courses?
