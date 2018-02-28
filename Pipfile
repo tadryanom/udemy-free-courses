@@ -7,7 +7,7 @@ verify_ssl = true
 
 [dev-packages]
 
-model-mommy = "*"
+model_mommy = "*"
 
 
 [requires]
@@ -18,14 +18,11 @@ python_version = "3.5"
 [packages]
 
 pyudemy = "*"
-telepot = "*"
 python-decouple = "*"
 python-telegram-bot = "*"
-django = "==1.9"
+Django = "==1.9"
 dj-database-url = "*"
-"psycopg2" = "*"
 gunicorn = "*"
 django-celery = "*"
 redis = "*"
-"psycopg2-binary" = "*"
 requests = "*"
