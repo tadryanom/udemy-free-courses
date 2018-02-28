@@ -31,5 +31,5 @@ def send_message(request):
 
     if not Course.objects.filter(identifier=kwargs.get('identifier')):
         course = create_course(**kwargs)
-        bot.send_message(chat_id="@freecoursesudemy", text=message(course), parse_mode=telegram.ParseMode.HTML)
+        bot.send_message(chat_id="@udemy_free_courses", text=message(course), parse_mode=telegram.ParseMode.HTML)
     return HttpResponse()

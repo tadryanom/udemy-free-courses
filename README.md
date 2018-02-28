@@ -9,7 +9,7 @@
 
 Want to be up to date with Udemy free courses?
 
-Join the [Udemy Free Courses](https://t.me/freecoursesudemy) telegram channel and be notified about all the free courses available at udemy!
+Join the [Udemy Free Courses](https://t.me/udemy_free_courses) telegram channel and be notified about all the free courses available at udemy!
 
 # Suggestions
 
