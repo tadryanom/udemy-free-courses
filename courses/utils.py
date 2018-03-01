@@ -12,7 +12,7 @@ def create_course(**kwargs):
     return course
 
 def message(course):
-    message = 'New course available! \n https://www.udemy.com{}'.format(course.url)
+    message = 'New free course available! \n https://www.udemy.com{}'.format(course.url)
     return message
 
 
